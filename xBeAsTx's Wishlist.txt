@@ -1,0 +1,6 @@
+title:xBeAsTx's Wishlist
+description:Wishlist roll from xBeAsTx#7023 for those items that don't currently exist in the main wishlist rolls yet (usually due to them being new releases) or for when those wishlists don't align with my preferences although rare.
+
+//Royal Executioner
+//notes: Maxing out your mag by simply getting kills with another weapon and then proceeding to reproc reservoir burst a few times in a row without needing to reload is something that just can't be passed up.
+dimwishlist:item=1720503118&perks=4090651448,2680121939,968510818,1427256713
