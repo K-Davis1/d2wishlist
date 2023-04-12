@@ -6,3 +6,10 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 dimwishlist:item=1720503118&perks=4090651448,2680121939,968510818,1427256713
 dimwishlist:item=1720503118&perks=839105230,2680121939,968510818,1427256713
 dimwishlist:item=1720503118&perks=1467527085,2680121939,968510818,1427256713
+
+//Hung Jury SR4
+//notes:xBeAsTx: PvP - If you can hold your ADS for just over a second you can proc both benefits of reduced flinch and boxed breathing, which can turn your first shot into a precision damage nightmare and helps ensure you can continue to hit those following shots. **[Masterwork: Adept Range]**
+dimwishlist:item=2883684343&perks=1467527085,3142289711,2866798147,2551157718,2839173408
+dimwishlist:item=2883684343&perks=3250034553,3142289711,2866798147,2551157718,2839173408
+dimwishlist:item=2883684343&perks=1482024992,3142289711,2866798147,2551157718,2839173408
+dimwishlist:item=2883684343&perks=202670084,3142289711,2866798147,2551157718,2839173408
