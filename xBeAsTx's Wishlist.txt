@@ -7,9 +7,14 @@ dimwishlist:item=3890055324&perks=1482024992,3142289711,2586829431,438098033
 dimwishlist:item=3890055324&perks=1467527085,3142289711,2586829431,438098033
 dimwishlist:item=3890055324&perks=4090651448,3142289711,2586829431,438098033
 dimwishlist:item=3890055324&perks=3250034553,3142289711,2586829431,438098033
-dimwishlist:item=3890055324&perks=1467527085,3177308360,2586829431,438098033
-dimwishlist:item=3890055324&perks=202670084,3177308360,2586829431,438098033
-dimwishlist:item=3890055324&perks=3250034553,3177308360,2586829431,438098033
+dimwishlist:item=3890055324&perks=1482024992,106909392,2586829431,438098033
+dimwishlist:item=3890055324&perks=1467527085,106909392,2586829431,438098033
+dimwishlist:item=3890055324&perks=4090651448,106909392,2586829431,438098033
+dimwishlist:item=3890055324&perks=3250034553,106909392,2586829431,438098033
+dimwishlist:item=3890055324&perks=1482024992,3230963543,2586829431,438098033
+dimwishlist:item=3890055324&perks=1467527085,3230963543,2586829431,438098033
+dimwishlist:item=3890055324&perks=4090651448,3230963543,2586829431,438098033
+dimwishlist:item=3890055324&perks=3250034553,3230963543,2586829431,438098033
 
 //Royal Executioner
 //notes:xBeAsTx: Maxing out your mag by simply getting kills with another weapon and then proceeding to reproc reservoir burst a few times in a row without needing to reload is something that just can't be passed up. While handling is good for r/b and autoloaders to quickly swap back and forth, it's not as critical here since you'll be able to have higher uptimes when needed. Trimming up the recoil direction isn't a bad idea either.
